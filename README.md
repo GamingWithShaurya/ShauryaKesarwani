@@ -19,6 +19,6 @@ This is the place where I opensource stuff, and try new ideas (and break things)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaKesarwani&layout=compact)
 </span>
 -->
-[![My Skills](https://skillicons.dev/icons?i=py,supabase,postgres,mysqlflask,git,html,css,c,pr,ps,discord,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,supabase,postgres,mysql,flask,git,html,css,c,pr,ps,discord,windows)](https://skillicons.dev)
 
 <!-- ![](https://komarev.com/ghpvc/?username=ShauryaKesarwani)-->
