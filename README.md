@@ -4,7 +4,7 @@ This is the place where I opensource stuff, and try new ideas (and break things)
 
 - 🔭 &nbsp;I’m currently working on something cool with windows and ai :wink:
 - 🌱 &nbsp;I’m currently learning Python, C++, Vue
-- 💬 &nbsp;Ask me about anything related to Python or Windows Softwares Knowledge
+- 💬 &nbsp;Ask me about anything related to Python or Windows Tips
 - ⚡ &nbsp;I :heart: to explore tech products, launches and build QOL things!
 - 👨‍💻 &nbsp;Read more about my projects at [Github](https://github.com/ShauryaKesarwani?tab=repositories)
 
